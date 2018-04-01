@@ -1,0 +1,16 @@
+{
+  "name": "gh-enemy-ai-utils-js",
+  "version": "1.0.0",
+  "description": "Gloomhave utils for enemy movement and decision making",
+  "main": "index.js",
+  "repository": "git@github.com:gloomhaven-tools/gh-enemy-ai-utils-js.git",
+  "author": "Eric Lloyd <erlloyd@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "typescript": "2.7.2"
+  }
+}
